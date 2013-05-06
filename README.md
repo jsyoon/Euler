@@ -1,0 +1,1 @@
+Exercise for Euler proj.
